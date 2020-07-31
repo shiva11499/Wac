@@ -1,0 +1,2 @@
+rootProject.name='NetworkAPIProject'
+include ':app'
